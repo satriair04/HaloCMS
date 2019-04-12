@@ -1,0 +1,19 @@
+-template
+--_backup
+---_baseweb.php		//Template dengan penggunaan data berbentuk object
+---_baseweb_ary		//Template dengan data array
+---index.html		//untuk mencegah akses direktori dari web browser
+---readme.txt		//File yang anda baca sekarang
+--_partials
+---breadcrumb.php	//membuat menu breadcrumb
+---footer.php		//membuat fixed footer
+---head.php		//css & meta. link script /frontend/
+---js.php		//link script /frontend/
+---modal.php		//membuat popout - trigger js dari head.php
+---navbar.php		//navigation bar 
+---scrolltop.php	//icon kecil untuk scroll keatas
+---sidebar.php		//untuk kelola menu side bar disamping
+--_overview.php
+--_baseweb.php		//file template siap panggil
+--index.html		//untuk mencegah akses direktori dari web browser
+--readme.txt

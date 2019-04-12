@@ -1,0 +1,4 @@
+# HaloCMS
+Sistem pengolahan berita dengan workflow dari submisi dari wartawan hingga diterbitkan redaktur.
+PENTING : 
+Agar UI view dapat tampil cantik gunakan template SB admin dan lakukan konfigurasi head.php (view/template/_partials/head.php)
